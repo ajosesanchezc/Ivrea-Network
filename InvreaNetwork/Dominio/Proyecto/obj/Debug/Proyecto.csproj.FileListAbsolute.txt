@@ -1,0 +1,22 @@
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Proyecto\obj\Debug\Proyecto.pdb
+E:\Proyecto ISTony\Dominio\Proyecto\bin\Debug\Proyecto.exe
+E:\Proyecto ISTony\Dominio\Proyecto\bin\Debug\Proyecto.pdb
+E:\Proyecto ISTony\Dominio\Proyecto\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto ISTony\Dominio\Proyecto\obj\Debug\Proyecto.exe
+E:\Proyecto ISTony\Dominio\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\bjs106\Documents\Dominio\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\bjs106\Documents\Dominio\Proyecto\obj\Debug\Proyecto.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Proyecto\bin\Debug\Proyecto.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Proyecto\bin\Debug\Proyecto.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Proyecto\obj\Debug\Proyecto.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Proyecto\obj\Debug\Proyecto.pdb

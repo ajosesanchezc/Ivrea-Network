@@ -1,0 +1,74 @@
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Logica.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Logica.pdb
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Dominio.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Dominio.pdb
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Logica\obj\Debug\Logica.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Logica\obj\Debug\Logica.pdb
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\AccesoDatos.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\AccesoDatos.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Proyecto IS\Dominio\Logica\obj\Debug\Logica.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Proyecto IS\Dominio\Logica\obj\Debug\Logica.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Proyecto IS\Dominio\Logica\bin\Debug\Logica.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Proyecto IS\Dominio\Logica\bin\Debug\Logica.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Proyecto IS\Dominio\Logica\bin\Debug\AccesoDatos.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Proyecto IS\Dominio\Logica\bin\Debug\Dominio.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Proyecto IS\Dominio\Logica\bin\Debug\AccesoDatos.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Proyecto IS\Dominio\Logica\bin\Debug\Dominio.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Proyecto IS\Dominio\Logica\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto ISTony\Dominio\Logica\obj\Debug\Logica.exe
+E:\Proyecto ISTony\Dominio\Logica\obj\Debug\Logica.pdb
+E:\Proyecto ISTony\Dominio\Logica\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto ISTony\Dominio\Logica\bin\Debug\Logica.exe
+E:\Proyecto ISTony\Dominio\Logica\bin\Debug\Logica.pdb
+E:\Proyecto ISTony\Dominio\Logica\bin\Debug\AccesoDatos.exe
+E:\Proyecto ISTony\Dominio\Logica\bin\Debug\Dominio.exe
+E:\Proyecto ISTony\Dominio\Logica\bin\Debug\AccesoDatos.pdb
+E:\Proyecto ISTony\Dominio\Logica\bin\Debug\Dominio.pdb
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Proyecto ISTony\Dominio\Logica\obj\Debug\Logica.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Proyecto ISTony\Dominio\Logica\obj\Debug\Logica.pdb
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Proyecto ISTony\Dominio\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Proyecto ISTony\Dominio\Logica\bin\Debug\Logica.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Proyecto ISTony\Dominio\Logica\bin\Debug\Logica.pdb
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Proyecto ISTony\Dominio\Logica\bin\Debug\AccesoDatos.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Proyecto ISTony\Dominio\Logica\bin\Debug\Dominio.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Proyecto ISTony\Dominio\Logica\bin\Debug\AccesoDatos.pdb
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Proyecto ISTony\Dominio\Logica\bin\Debug\Dominio.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Logica\obj\Debug\Logica.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Logica\obj\Debug\Logica.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Logica.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Logica.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\AccesoDatos.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Dominio.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\AccesoDatos.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Dominio.pdb
+C:\Users\bjs106\Documents\Dominio\Logica\obj\Debug\Logica.exe
+C:\Users\bjs106\Documents\Dominio\Logica\obj\Debug\Logica.pdb
+C:\Users\bjs106\Documents\Dominio\Logica\bin\Debug\Logica.exe
+C:\Users\bjs106\Documents\Dominio\Logica\bin\Debug\Logica.pdb
+C:\Users\bjs106\Documents\Dominio\Logica\bin\Debug\AccesoDatos.exe
+C:\Users\bjs106\Documents\Dominio\Logica\bin\Debug\Dominio.exe
+C:\Users\bjs106\Documents\Dominio\Logica\bin\Debug\AccesoDatos.pdb
+C:\Users\bjs106\Documents\Dominio\Logica\bin\Debug\Dominio.pdb
+C:\Users\bjs106\Documents\Dominio\Logica\obj\Debug\ResolveAssemblyReference.cache
+E:\Final\Dominio\Logica\obj\Debug\Logica.exe
+E:\Final\Dominio\Logica\obj\Debug\Logica.pdb
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\Logica\obj\Debug\Logica.exe
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\Logica\obj\Debug\Logica.pdb
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Logica.exe
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Logica.pdb
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\AccesoDatos.exe
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Dominio.exe
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\AccesoDatos.pdb
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\Logica\bin\Debug\Dominio.pdb
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Logica\obj\Debug\Logica.exe
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Logica\obj\Debug\Logica.pdb
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Logica\bin\Debug\Logica.exe
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Logica\bin\Debug\Logica.pdb
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Logica\bin\Debug\AccesoDatos.exe
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Logica\bin\Debug\Dominio.exe
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Logica\bin\Debug\AccesoDatos.pdb
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Logica\bin\Debug\Dominio.pdb
+C:\Users\Antonio\Documents\Proyectos\Proyecto Ivrea Network\Proyecto1InvreaNetworkAntonioSanchez,NellyFernandez,Juan Mirelles\Dominio\Logica\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,60 @@
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ADI.resources
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.claseBase1.resources
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.GP.resources
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.LOGIN.resources
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PRINCIPAL.resources
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Registro.resources
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Registros.resources
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.RRHH.resources
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\Final\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ADI.resources
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.claseBase1.resources
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Eliminar.resources
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.GP.resources
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.LOGIN.resources
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PRINCIPAL.resources
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Registro.resources
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.RRHH.resources
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\tony\Mis documentos\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ADI.resources
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.claseBase1.resources
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Eliminar.resources
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.GP.resources
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.LOGIN.resources
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PRINCIPAL.resources
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Registro.resources
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.RRHH.resources
+C:\Users\bjs106\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ADI.resources
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.claseBase1.resources
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Eliminar.resources
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.GP.resources
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.LOGIN.resources
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PRINCIPAL.resources
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Registro.resources
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.RRHH.resources
+C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache

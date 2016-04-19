@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dominio">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Dominio.sln">
+</Property><Property Name="Date" Value="sábado, 17 de abril de 2010">
+</Property><Property Name="Time" Value="16:10:26">
+</Property></Properties><Event ErrorLevel="0" Project="Servidor" Source="..\Sockets\Backup2\Servidor.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Backup\Servidor.csproj">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="..\Sockets\Backup2\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="..\Sockets\Backup2\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Nelly\Documents\Visual Studio 2008\Projects\Dominio\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="..\Sockets\Backup2\Servidor.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Servidor" Source="..\Sockets\Backup2\Servidor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Servidor" Source="..\Sockets\Backup2\Servidor.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
